@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/knight-moveset/static/css/main.8de01cc6.css",
+    "main.js": "/knight-moveset/static/js/main.1adbf683.js",
+    "static/media/Chessboard.jpg": "/knight-moveset/static/media/Chessboard.234548716d84a2636875.jpg",
+    "index.html": "/knight-moveset/index.html",
+    "main.8de01cc6.css.map": "/knight-moveset/static/css/main.8de01cc6.css.map",
+    "main.1adbf683.js.map": "/knight-moveset/static/js/main.1adbf683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de01cc6.css",
+    "static/js/main.1adbf683.js"
+  ]
+}
